@@ -1,0 +1,10 @@
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\SADIGOV\Desktop\ConsoleApplicationEndProject\ConsoleAppEndProject\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
